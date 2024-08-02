@@ -20,9 +20,9 @@ body {
   justify-content: center;
 }
 .container {
-  background: #4a4b50;
-  background: blur(10px);
-  backface-visibility: 50%;
+  border-radius: 20px;
+  border-style: dashed;
+  backdrop-filter: blur(5px);
   display: flex;
   flex-direction: column;
   justify-content: space-around;
