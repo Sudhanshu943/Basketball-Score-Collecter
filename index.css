@@ -21,6 +21,8 @@ body {
 }
 .container {
   background: #4a4b50;
+  background: blur(10px);
+  backface-visibility: 50%;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
