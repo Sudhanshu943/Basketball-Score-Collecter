@@ -9,7 +9,8 @@ body {
   margin: 0;
   font-weight: bold;
   text-align: center;
-  background: #4bc051;
+  background-image: url(basketball.gif);
+  background-size: cover;
 }
 
 .cage {
